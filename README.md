@@ -1,1 +1,2 @@
-## InvestmentNotes
+## Invest
+屬於我自己的理財投資筆記。
